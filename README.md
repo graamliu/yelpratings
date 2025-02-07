@@ -1,4 +1,4 @@
-# Analyzing 10Gb of Yelp Reviews Data: Graam Liu Project 2
+# Analyzing 10Gb of Yelp Reviews Data: Graam Liu 
 
 Yelp's user, business, and reviews data were analyzed using a Spark cluster created in AWS EMR. The original data can be found in [Kaggle](https://www.kaggle.com/yelp-dataset/yelp-dataset) 
 
