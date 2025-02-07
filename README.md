@@ -8,5 +8,5 @@ Yelp's data was uploaded to a S3 bucket and then loaded into a jupyter notebook 
 
 ## Cluster and Notebook Configs
 
-![notebook_configuration](assets/notebook_configuration.png)
-![cluster_configuration](assets/cluster_configuration.png)
+![notebook_configuration](notebook_configuration.png)
+![cluster_configuration](cluster_configuration.png)
